@@ -1,0 +1,66 @@
+header {
+  background-color: yellow;
+}
+
+.nav,
+form,
+.source {
+  background-color: yellow;
+  font-family: Georgia;
+  font-size: 18pt;
+}
+
+.about{
+  background-color: yellow;
+  font-family: Georgia;
+  font-size: 12pt;
+
+}
+
+table{
+  font-size: 40px;
+}
+
+h1 {
+  color: rgb(253, 184, 184);
+  font-size: 250%;
+  font-family: cursive;
+  font-weight: normal;
+}
+
+h3 {
+  color: rgb(253, 184, 184);
+  font-size: 20pt;
+  font-family: cursive;
+}
+
+.h3 {
+  color: rgb(253, 184, 184);
+  font-size: 20pt;
+  font-family: cursive;
+}
+
+body {
+  font-family: Georgia;
+  background: url(background.jpg) no-repeat;
+  background-size: cover;
+  font-size: 100%;
+}
+
+footer {
+  position: static;
+  background-color: yellow;
+}
+
+td,
+th {
+  border: 1px solid rgb(0, 0, 0);
+}
+
+tr:nth-last-child(even) {
+  background: #cec294;
+}
+
+tr:nth-last-child(odd) {
+  background: #dbb313;
+}
