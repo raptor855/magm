@@ -1,1 +1,1 @@
-# raptor855/magm.github.io
+# magm.github.io
